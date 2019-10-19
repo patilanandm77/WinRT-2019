@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\CLSID\{87206F99-95B5-4E38-88E7-C32346C32EA4}]
+@="ClassFactoryDllServerWithRegFile"
+[HKEY_CLASSES_ROOT\CLSID\{87206F99-95B5-4E38-88E7-C32346C32EA4}\InprocServer32]
+@="C:\\Users\\Anand Patil\\Desktop\\COM ASSIGNMENTS\\CLASS FACTORY\\ClassFactoryDllServerWithRegFile\\x64\\Debug\\ClassFactoryDllServerWithRegFile.dll"
+
+
+
+ 

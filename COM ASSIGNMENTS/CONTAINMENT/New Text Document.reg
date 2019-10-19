@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\CLSID\{21BCFBC6-DF7C-4600-A513-6C5907196D15}]
+@="ContainmentOuterComponentWithRegFile"
+[HKEY_CLASSES_ROOT\CLSID\{21BCFBC6-DF7C-4600-A513-6C5907196D15}\InprocServer32]
+@="C:\\Users\\Anand Patil\\Desktop\\COM ASSIGNMENTS\\CONTAINMENT\\ContainmentOuterComponentWithRegFile\\x64\\Debug\\ContainmentOuterComponentWithRegFile.dll"
+
+
+[HKEY_CLASSES_ROOT\CLSID\{71B63D4A-3414-4C06-8B1D-156C9717EF37}]
+@="ContainmentInnerComponentWithRegFile"
+[HKEY_CLASSES_ROOT\CLSID\{71B63D4A-3414-4C06-8B1D-156C9717EF37}\InprocServer32]
+@="C:\\Users\\Anand Patil\\Desktop\\COM ASSIGNMENTS\\CONTAINMENT\\ContainmentInnerComponentWithRegFile\\x64\\Debug\\ContainmentInnerComponentWithRegFile.dll"
+
+
+
+
+
